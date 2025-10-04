@@ -3,7 +3,7 @@
 ## NGO: Choice Foundation  
 **Group:** 1  
 
-[Presentation + Video Demo Link | OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/prithvi_karthik_students_iiit_ac_in/Er3T3tpZgkpFnVNvZIMJRPABPqzakZ9y2IpiyKPHVva4xg?e=qKzoEC)  
+[Presentation + Video Demo Link | OneDrive](https://iiithydstudents-my.sharepoint.com/:f:/g/personal/prithvi_karthik_students_iiit_ac_in/EoNv3znQolJGti5KMtwzecgBY2mkTRatqUsbcb1M874VMQ?e=PfeYsr)  
 
 ## Installation  
 
